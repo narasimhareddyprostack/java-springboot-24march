@@ -1,0 +1,11 @@
+What is interface?
+what interface contains?
+- abstract methods
+- default methods 
+- static methods 
+- varialbe  - public static final 
+- nested interface 
+
+difference between abstract class and interface?
+
+what is abstract class?
