@@ -1,0 +1,9 @@
+ArithmaticException
+NumberFormatException
+NullPointerException
+AIOBSException
+IllegalArgumentException
+ClassNotFoundException
+ClassCastException
+
+Write Examples/sample code to generate AboveException
